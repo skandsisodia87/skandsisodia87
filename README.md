@@ -5,13 +5,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
+- 👨‍💻 I love to work with React.
+
 - 🔭 I’m currently working on: **E-voting using BlockChain**
 
 - 💬 Ask me about: **MERN**
 
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
-
-- 📄 Know about my <a href="https://drive.google.com/file/d/1D0iL-OKA646bs-nRKMHoJIWhol60FpO7/view?usp=drivesdk ">Experiences</a>
 
 
 <h3 align="left">Connect with me:</h3>
