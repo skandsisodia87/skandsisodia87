@@ -1,16 +1,12 @@
 ![logo](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Skand Sisodia</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-
+<h2>About</h2>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 👨‍💻 I love to work with React.
-
+- 🧑‍💻 A Web Developer.
+- 🤹‍♂️ I love to work with React.
 - 🔭 I’m currently working on: **E-voting using BlockChain**
-
-- 💬 Ask me about: **MERN**
-
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
 
 
