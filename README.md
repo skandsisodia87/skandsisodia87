@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🧑‍💻 A Web Developer.
-- 🤹‍♂️ I love to work with React.
+<!-- - 🤹‍♂️ I love to work with React. -->
 - 🔭 I’m currently working on: **E-voting using BlockChain**
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
 
