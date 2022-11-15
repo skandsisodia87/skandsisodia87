@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Skand Sisodia</h1>
 
 <h2>About</h2>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🧑‍💻 A Web Developer.
 - 🔭 Currently I'm pursuing B.Tech in CSE from ABESIT.
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
+
 <!-- - 🤹‍♂️ I love to work with React. -->
 <!-- I’m currently working on: **E-voting using BlockChain** -->
 
