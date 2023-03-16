@@ -7,6 +7,7 @@
 - 🧑‍💻 A Web Developer.
 - 🔭 Currently I'm pursuing B.Tech in CSE from ABESIT.
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
+- 👨‍💻 Trainee Software Engineer @XorLabs pvt.
 
 <!-- - 🤹‍♂️ I love to work with React. -->
 <!-- I’m currently working on: **E-voting using BlockChain** -->
