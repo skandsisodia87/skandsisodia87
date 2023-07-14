@@ -4,7 +4,7 @@
 <h2>About</h2>
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🧑‍💻 A Web Developer.
+- 🧑‍💻 A MERN Stack Developer.
 - 🔭 Currently I'm pursuing B.Tech in CSE from ABESIT.
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
 - 👨‍💻 Trainee Software Engineer @XorLabs pvt.
