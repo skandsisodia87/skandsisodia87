@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Skand Sisodia</h1>
 
 <h2>About</h2>
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="355" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🧑‍💻 A MERN Stack Developer.
 - 🔭 Completed B.Tech in CSE from ABESIT.
