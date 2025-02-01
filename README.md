@@ -7,7 +7,7 @@
 - 🧑‍💻 A MERN Stack Developer.
 - 🔭 Completed B.Tech in CSE from ABESIT.
 - 📫 How to reach me: **<a href="sisodiaskand@gmail.com">Email me</a>**
-- 👨‍💻 Software Engineer - L1 @XorLabs.
+- 👨‍💻 Software Engineer - L1 at XorLabs.
 
 <!-- - 🤹‍♂️ I love to work with React. -->
 <!-- I’m currently working on: **E-voting using BlockChain** -->
